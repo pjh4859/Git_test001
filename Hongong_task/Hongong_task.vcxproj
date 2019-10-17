@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{A4D965D7-C1CF-4CC6-852D-B60830201864}</ProjectGuid>
-    <RootNamespace>ProjectTest002</RootNamespace>
+    <ProjectGuid>{EB42E83B-0D66-4A7E-ABE8-714E95B48043}</ProjectGuid>
+    <RootNamespace>Hongongtask</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source006.cpp" />
+    <ClCompile Include="03Prime_number.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
